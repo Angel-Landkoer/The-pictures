@@ -1,2 +1,2 @@
 # The-pictures
-Este es un lugar donde planeto dejar las imagenes de mi proyecto.
+Este es un lugar donde planeo dejar las imagenes de mi proyecto.
